@@ -1,0 +1,1 @@
+Logistic Regression model us uased to assess flood risk potential using a combination of variables such as land use/land cover, elevation, slope, distance to roads, distance to rivers, distance to lakes, drainage density, distance to drains, and historical flood areas.
