@@ -87,7 +87,9 @@ The table below shows the contribution (coefficient) and statistical significanc
 
 ### Final Output:
 The project's primary output is a **Flood Risk Zonation Map** of the Greater Accra Region, visually identifying hotspots and safe zones for planners and policymakers.
-![Flood Risk Map]((https://github.com/frankraDIUM/flood-risk-modelling-with-Logistic-Regression/blob/main/Flood%20Risk%20Map.jpg))
+![Flood Risk Map] <div>
+  <img src="https://raw.githubusercontent.com/frankraDIUM/flood-risk-modelling-with-Logistic-Regression/refs/heads/main/Flood%20Risk%20Map.jpg"/>
+</div>
 
 
 
